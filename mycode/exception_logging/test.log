@@ -1,5 +1,6 @@
-2020-07-17 16:47:45,394 - DEBUG - logging_file_test.py : 30 - Start of Program
-2020-07-17 16:47:45,394 - DEBUG - logging_file_test.py : 31 - Hello debug 모드
-2020-07-17 16:47:45,394 - INFO - logging_file_test.py : 32 - Hello info 모드
-2020-07-17 16:47:45,394 - ERROR - logging_file_test.py : 33 - Hello error 모드
-2020-07-17 16:47:45,394 - DEBUG - logging_file_test.py : 34 - End of Program
+2020-07-17 16:50:23,602 - DEBUG - logging_file_test.py : 30 - Start of Program
+2020-07-17 16:50:23,602 - DEBUG - logging_file_test.py : 31 - Hello debug 모드
+2020-07-17 16:50:23,602 - INFO - logging_file_test.py : 32 - Hello info 모드
+2020-07-17 16:50:23,602 - WARNING - logging_file_test.py : 33 - Hello warning 모드
+2020-07-17 16:50:23,602 - ERROR - logging_file_test.py : 34 - Hello error 모드
+2020-07-17 16:50:23,602 - DEBUG - logging_file_test.py : 35 - End of Program
