@@ -12,7 +12,7 @@ class Person(object):
 # 자식 클래스
 class Employee(Person):
     def __init__(self, name, age, gender, salary, hire_date):
-        super.__init__(name, age, gender)
+        super().__init__(name, age, gender)
         self.salary = salary
         self.hire_date = hire_date
 
